@@ -21,5 +21,5 @@ def stop_button_press():
     else:
         return False
 
-
+go_button_press()
     
